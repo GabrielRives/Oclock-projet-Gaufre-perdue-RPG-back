@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=orpg
+
+
+1.create_tables 2024-02-06T16:04:42Z Etudiant O'clock <student@teleporter> # création des tables
+2.functions 2024-02-08T09:54:30Z admin_orpg <admin_oresto@oclock.io> # Création des fonctions

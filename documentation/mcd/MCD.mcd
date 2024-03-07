@@ -1,0 +1,23 @@
+:
+Classe:	code_classe, libellé, description, force, dextérité, intelligence, morale, point_de_vie
+Arme: code_arme, libellé, type, description, dégât_physique, dégât_magique, dégât_critique, taux_critique, niveau_objet
+PARLER, 1N dialogue, 0N PNJ
+PNJ: code_pnj, nom, prenom, description, type
+
+:
+ATTRIBUER, 11 Personnage, 0N Classe
+S_ARMER, 01 Personnage, 0N Arme
+dialogue : code_dialogue, contenu
+APPARAITRE, 0N PNJ, 01 Événement
+
+Utilisateur:	code_utilisateur, pseudonyme, prénom, nom, date_de_naissance, email, mot_de_passe, rôle
+POSSEDER, 11 Personnage, 0N Utilisateur
+Personnage:	code_personnage, pseudonyme, description
+DECLENCHER, 0N Personnage, 0N Événement
+Événement: code_événement, titre, description, type
+
+:
+Armure:	code_armure, libellé, type, description, point_de_vie, défense_physique, défense_magique, niveau_objet
+S_EQUIPER, 01 Personnage, 0N Armure
+Monstre: code_monstre, libellé, description, point_de_vie, dégât_physique, dégât_magique, fuite
+SURGIR, 0N Monstre, 01 Événement

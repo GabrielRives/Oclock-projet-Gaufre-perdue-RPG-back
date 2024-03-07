@@ -1,0 +1,130 @@
+14-02-2024 14:50:37:5037 [31merror[39m: [31msyntaxe en entrée invalide pour le type integer : « null »[39m
+14-02-2024 15:30:27:3027 [31merror[39m: [31msyntaxe en entrée invalide pour le type integer : « undefined »[39m
+14-02-2024 15:41:06:416 [31merror[39m: [31msyntaxe en entrée invalide pour le type integer : « undefined »[39m
+14-02-2024 16:21:10:2110 [31merror[39m: [31mune valeur NULL viole la contrainte NOT NULL de la colonne « purse » dans la relation « character »[39m
+14-02-2024 16:45:17:4517 [31merror[39m: [31mune valeur NULL viole la contrainte NOT NULL de la colonne « purse » dans la relation « character »[39m
+15-02-2024 10:42:53:4253 [31merror[39m: [31mla valeur d'une clé dupliquée rompt la contrainte unique « user_nickname_key »[39m
+15-02-2024 11:07:32:732 [31merror[39m: [31mla valeur pour le domaine domain_nickname viole la contrainte de vérification « domain_nickname_check »[39m
+19-02-2024 15:13:48:1348 [31merror[39m: [31mErreur de décodage du token[39m
+20-02-2024 12:03:05:35 [31merror[39m: [31mune valeur NULL viole la contrainte NOT NULL de la colonne « user_id » dans la relation « character »[39m
+20-02-2024 16:50:45:5045 [31merror[39m: [31mla valeur d'une clé dupliquée rompt la contrainte unique « character_nickname_key »[39m
+20-02-2024 17:23:42:2342 [31merror[39m: [31merreur de syntaxe sur ou près de « RETURNING »[39m
+20-02-2024 17:26:44:2644 [31merror[39m: [31merreur de syntaxe sur ou près de « RETURNING »[39m
+22-02-2024 16:02:23:223 [31merror[39m: [31mErreur de décodage du token[39m
+22-02-2024 16:50:36:5036 [31merror[39m: [31mstructure of query does not match function result type[39m
+22-02-2024 17:24:19:2419 [31merror[39m: [31mErreur lors de la vérification du token[39m
+22-02-2024 17:27:40:2740 [31merror[39m: [31mErreur lors de la vérification du token[39m
+22-02-2024 17:29:00:290 [31merror[39m: [31mErreur lors de la vérification du token[39m
+22-02-2024 17:29:36:2936 [31merror[39m: [31mErreur lors de la vérification du token[39m
+22-02-2024 17:30:15:3015 [31merror[39m: [31mErreur lors de la vérification du token[39m
+22-02-2024 17:47:41:4741 [31merror[39m: [31mCannot destructure property 'result' of 'jwt.decode(...)' as it is null.[39m
+22-02-2024 17:53:53:5353 [31merror[39m: [31mErreur lors de la vérification du token[39m
+22-02-2024 17:56:45:5645 [31merror[39m: [31mErreur lors de la vérification du token[39m
+22-02-2024 17:56:55:5655 [31merror[39m: [31mErreur lors de la vérification du token[39m
+22-02-2024 18:00:03:03 [31merror[39m: [31mErreur lors de la vérification du token[39m
+22-02-2024 18:19:03:193 [31merror[39m: [31mstructure of query does not match function result type[39m
+22-02-2024 18:24:22:2422 [31merror[39m: [31mstructure of query does not match function result type[39m
+22-02-2024 18:27:30:2730 [31merror[39m: [31mune liste de définition de colonnes est requise pour les fonctions renvoyant un « record »[39m
+22-02-2024 18:29:26:2926 [31merror[39m: [31mstructure of query does not match function result type[39m
+22-02-2024 18:37:31:3731 [31merror[39m: [31mstructure of query does not match function result type[39m
+22-02-2024 18:37:31:3731 [31merror[39m: [31mstructure of query does not match function result type[39m
+22-02-2024 18:37:31:3731 [31merror[39m: [31mstructure of query does not match function result type[39m
+22-02-2024 18:56:19:5619 [31merror[39m: [31mErreur lors de la vérification du token[39m
+23-02-2024 09:34:11:3411 [31merror[39m: [31mErreur lors de la vérification du token[39m
+23-02-2024 09:34:40:3440 [31merror[39m: [31mErreur lors de la vérification du token[39m
+23-02-2024 11:09:06:96 [31merror[39m: [31mErreur lors de la vérification du token[39m
+23-02-2024 11:34:57:3457 [31merror[39m: [31mErreur lors de la vérification du token[39m
+23-02-2024 11:38:13:3813 [31merror[39m: [31mErreur lors de la vérification du token[39m
+23-02-2024 13:59:02:592 [31merror[39m: [31mErreur lors de la vérification du token[39m
+23-02-2024 14:00:14:014 [31merror[39m: [31mToken manquant ou mal formaté[39m
+23-02-2024 14:10:25:1025 [31merror[39m: [31mErreur lors de la vérification du token[39m
+23-02-2024 14:19:33:1933 [31merror[39m: [31mToken manquant ou mal formaté[39m
+23-02-2024 14:20:50:2050 [31merror[39m: [31mToken manquant ou mal formaté[39m
+23-02-2024 14:28:32:2832 [31merror[39m: [31mToken manquant ou mal formaté[39m
+23-02-2024 14:39:55:3955 [31merror[39m: [31mCannot read properties of undefined (reading 'authorization')[39m
+23-02-2024 14:57:20:5720 [31merror[39m: [31mCannot destructure property 'result' of 'jwt.decode(...)' as it is undefined.[39m
+23-02-2024 14:57:57:5757 [31merror[39m: [31mLes identifiants ne sont pas corrects[39m
+23-02-2024 15:03:08:38 [31merror[39m: [31mCannot read properties of undefined (reading 'authorization')[39m
+23-02-2024 15:10:23:1023 [31merror[39m: [31mCannot read properties of undefined (reading 'authorization')[39m
+23-02-2024 15:33:50:3350 [31merror[39m: [31mCannot read properties of undefined (reading 'authorization')[39m
+23-02-2024 15:45:49:4549 [31merror[39m: [31mauthHeader is not defined[39m
+23-02-2024 15:47:29:4729 [31merror[39m: [31mCannot access 'token' before initialization[39m
+23-02-2024 15:49:05:495 [31merror[39m: [31mpetit malin tu essaies de pirater mon site, je vais envoyer ton ip à la police russe[39m
+23-02-2024 15:53:17:5317 [31merror[39m: [31mpetit malin tu essaies de pirater mon site, je vais envoyer ton ip à la police russe[39m
+23-02-2024 16:01:13:113 [31merror[39m: [31mpetit malin tu essaies de pirater mon site, je vais envoyer ton ip à la police russe[39m
+23-02-2024 16:03:15:315 [31merror[39m: [31mpetit malin tu essaies de pirater mon site, je vais envoyer ton ip à la police russe[39m
+23-02-2024 16:08:32:832 [31merror[39m: [31mtoken is not defined[39m
+23-02-2024 16:10:13:1013 [31merror[39m: [31mreq.get is not a function[39m
+23-02-2024 16:13:07:137 [31merror[39m: [31mreq.get is not a function[39m
+23-02-2024 16:13:27:1327 [31merror[39m: [31mreq.get is not a function[39m
+23-02-2024 16:17:56:1756 [31merror[39m: [31mpetit malin tu essaies de pirater mon site, je vais envoyer ton ip à la police russe[39m
+23-02-2024 16:34:53:3453 [31merror[39m: [31mVous n'avez pas le droit[39m
+23-02-2024 17:02:43:243 [31merror[39m: [31mVous n'avez pas le droit[39m
+23-02-2024 17:14:23:1423 [31merror[39m: [31mVous n'avez pas le droit[39m
+23-02-2024 17:52:17:5217 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:28:16:2816 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:31:06:316 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:31:48:3148 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:46:39:4639 [31merror[39m: [31mAssignment to constant variable.[39m
+26-02-2024 09:47:09:479 [31merror[39m: [31mAssignment to constant variable.[39m
+26-02-2024 09:47:39:4739 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:49:05:495 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:49:40:4940 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:50:41:5041 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:51:01:511 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:51:28:5128 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:53:49:5349 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:55:52:5552 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:57:03:573 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:57:42:5742 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:58:17:5817 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:58:37:5837 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 09:59:01:591 [31merror[39m: [31mrole is not defined[39m
+26-02-2024 09:59:30:5930 [31merror[39m: [31mrole is not defined[39m
+26-02-2024 10:00:14:014 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 10:00:44:044 [31merror[39m: [31mrole is not defined[39m
+26-02-2024 10:05:41:541 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 10:07:26:726 [31merror[39m: [31mresult is not defined[39m
+26-02-2024 10:09:07:97 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 10:10:47:1047 [31merror[39m: [31mLes identifiants ne sont pas corrects[39m
+26-02-2024 10:11:27:1127 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 10:13:14:1314 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 10:15:32:1532 [31merror[39m: [31mVous n'avez pas le droit[39m
+<<<<<<< HEAD
+26-02-2024 10:46:30:4630 [31merror[39m: [31mla fonction update_character_stat(unknown) n'existe pas[39m
+26-02-2024 10:51:25:5125 [31merror[39m: [31mla fonction update_character_stat(unknown) n'existe pas[39m
+26-02-2024 10:53:38:5338 [31merror[39m: [31mla fonction update_character_stat(unknown) n'existe pas[39m
+26-02-2024 10:58:55:5855 [31merror[39m: [31mla fonction update_character_stat(unknown) n'existe pas[39m
+26-02-2024 11:40:34:4034 [31merror[39m: [31mLes identifiants ne sont pas corrects[39m
+26-02-2024 11:41:41:4141 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 11:42:38:4238 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 11:59:10:5910 [31merror[39m: [31mla valeur d'une clé dupliquée rompt la contrainte unique « character_nickname_key »[39m
+26-02-2024 12:00:53:053 [31merror[39m: [31mla valeur d'une clé dupliquée rompt la contrainte unique « character_nickname_key »[39m
+26-02-2024 14:14:42:1442 [31merror[39m: [31mLes identifiants ne sont pas corrects[39m
+26-02-2024 14:16:59:1659 [31merror[39m: [31mLes identifiants ne sont pas corrects[39m
+26-02-2024 14:28:54:2854 [31merror[39m: [31mLes identifiants ne sont pas corrects[39m
+26-02-2024 15:15:51:1551 [31merror[39m: [31mLes identifiants ne sont pas corrects[39m
+26-02-2024 15:45:27:4527 [31merror[39m: [31mLes identifiants ne sont pas corrects[39m
+26-02-2024 15:49:21:4921 [31merror[39m: [31mLes identifiants ne sont pas corrects[39m
+26-02-2024 15:50:58:5058 [31merror[39m: [31mLes identifiants ne sont pas corrects[39m
+26-02-2024 15:55:58:5558 [31merror[39m: [31mErreur lors de la vérification de l'utilisateur[39m
+26-02-2024 17:05:34:534 [31merror[39m: [31mErreur lors de la vérification de l'utilisateur[39m
+26-02-2024 17:42:53:4253 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 17:44:16:4416 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 17:45:35:4535 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 17:55:55:5555 [31merror[39m: [31mVous n'avez pas le droit[39m
+26-02-2024 17:56:43:5643 [31merror[39m: [31mVous n'avez pas le droit[39m
+=======
+26-02-2024 16:18:04:184 [31merror[39m: [31mla fonction get_replica_of_monster() n'existe pas[39m
+26-02-2024 16:55:36:5536 [31merror[39m: [31mla relation « buy_weapon » n'existe pas[39m
+26-02-2024 16:57:59:5759 [31merror[39m: [31mla relation « buy_weapon » n'existe pas[39m
+26-02-2024 16:59:13:5913 [31merror[39m: [31mla relation « buy_weapon » n'existe pas[39m
+26-02-2024 17:04:31:431 [31merror[39m: [31mla relation « buy_weapon » n'existe pas[39m
+26-02-2024 17:09:03:93 [31merror[39m: [31mla fonction buy_weapon() n'existe pas[39m
+26-02-2024 17:12:13:1213 [31merror[39m: [31mla fonction buy_weapon() n'existe pas[39m
+26-02-2024 17:16:34:1634 [31merror[39m: [31mil n'y a pas de paramètre $1[39m
+26-02-2024 17:17:40:1740 [31merror[39m: [31mil n'y a pas de paramètre $1[39m
+26-02-2024 17:30:12:3012 [31merror[39m: [31mune valeur NULL viole la contrainte NOT NULL de la colonne « weapon_id » dans la relation « character »[39m
+26-02-2024 17:46:45:4645 [31merror[39m: [31mla fonction update_character_stat(unknown) n'existe pas[39m
+26-02-2024 18:53:45:5345 [31merror[39m: [31mla fonction update_character_stat(unknown) n'existe pas[39m
+>>>>>>> test/Ted
